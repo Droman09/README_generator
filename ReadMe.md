@@ -27,7 +27,7 @@ SO THAT I can quickly create a professional README for a new project
   None 
 
   ## Test 
-  ![video](README_gif.mov)
+  ![video](README_gif.gif)
   
 
   ## License
