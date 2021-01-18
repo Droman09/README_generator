@@ -18,16 +18,18 @@ function generateMarkdown(data) {
   ${data.description}
 
   ## Installation
+  
   ${data.installments} is required to run this program
 
   ## Usage 
-  //add a video on how to use this application 
+
   ${data.usage}
 
   ## Contributions
   ${data.contributions}
 
   ## Test 
+
   ${data.test}
 
   ## License
