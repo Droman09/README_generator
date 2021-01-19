@@ -17,6 +17,10 @@
   
   You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
 
+  This README file was created then modified by utilizing this generator. 
+
+  
+
   ## Installation
   Node is required to run this program. Select index.js file and open it on the terminal so that you can install the dependencies by typing "npm i".
 
