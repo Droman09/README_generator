@@ -6,12 +6,13 @@
   * [Description](#description)
   * [Installation](#installments)
   * [Usage](#usage)
-  * [Test Instructions](#test)
   * [Technologies](#technologies)
   * [License](#license)
   * [Questions](#questions)
 
   ## Description
+  A README file porvides an introduction to your project. It serves as guide for the user to prevent any confusion on how to run your code. Theres no denying that a README file is essential to your repository and commencing one can be a nuisance. 
+
   As a developer, this README generator can quickly create a professional README for a new project.
   
   You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
@@ -21,7 +22,7 @@
 
   ## Usage 
   
-  ![video](README_gif.gif)
+  ![GIF](README_gif.gif)
 
   ## Technologies
 
